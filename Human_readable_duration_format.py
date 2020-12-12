@@ -1,3 +1,5 @@
+#Link to Question: https://www.codewars.com/kata/52742f58faf5485cae000b9a
+
 def format_duration(seconds):
     #your code here
     s = seconds
